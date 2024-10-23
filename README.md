@@ -70,7 +70,7 @@ Cómo Usar los Archivos
 
 bash
 Copiar código
-git clone https://github.com/CaroVallejo/Proyecto2analisisdedatos.git
+https://drive.google.com/drive/folders/1MNfji9QXGoHBWD7GkxrbDsGKQAH-khy3 
 Instalar dependencias: Si utilizas Python, instala las dependencias necesarias:
 
 bash
